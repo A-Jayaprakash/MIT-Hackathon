@@ -47,16 +47,15 @@ This layer consists of *multiple non-invasive sensors* collecting real-time bios
 
 ### *4. Communication Layer (IoT Gateway)*
 
-* Device uses *MQTT or HTTP* to send predictions and raw data to the cloud.  
-* *WiFi/BLE* for short-range; *LoRaWAN* or *NB-IoT* for long-range deployment.
+* LoRa and Bluetooth module.
 
 ---
 
 ### *5. Cloud Layer (Storage + Analytics + Alerts)*
 
 * Stores real-time and historical glucose data.  
-* Visual analytics (graphs, trends, risk zones).  
-* Trigger alerts if glucose crosses thresholds.  
+* Visual analytics (graphs, trends, risk zones). 
+* Trigger alerts if glucose crosses thresholds.
 * Optionally retrain/update the model based on real user feedback.
 
 ---

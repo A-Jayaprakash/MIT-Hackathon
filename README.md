@@ -1,4 +1,4 @@
-##**Project Draft: Real-Time Sign Language to Voice Chatbot for Doctor-Patient Communication**
+##***Project Draft: Real-Time Sign Language to Voice Chatbot for Doctor-Patient Communication***
 
 #**Executive Summary:**
 This project aims to create an AI-powered real-time chatbot that serves as a voice for deaf and dumb individuals during medical consultations. It captures Indian Sign Language (ISL) using a webcam, translates it into English text, converts it into regional language text and voice, and conveys it to the doctor. This eliminates communication barriers and ensures accurate medical support.
